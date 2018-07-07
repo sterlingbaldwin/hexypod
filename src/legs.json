@@ -1,0 +1,86 @@
+{
+    "0": { # left back
+        "ankle": {
+            "ch": 0,
+            "start": 650,
+            "stop": 1600
+        },
+        "knee": {
+            "ch": 1,
+            "start": 545,
+            "stop": 2400
+        },
+        "hip": {
+            "ch": 2,
+            "start": 1100,
+            "stop": 2200
+        }
+    },
+    "1": { # left mid
+        "ankle": {
+            "ch": 4,
+            "start": 950,
+            "stop": 2000,
+        },
+        "knee": {
+            "ch": 3,
+            "start": 500,
+            "stop": 2050
+        },
+        "hip": {
+            "ch": 5
+            "start": 690,
+            "stop": 1500
+        }
+    },
+    "2": { # left front
+        "ankle": {
+            "ch": 8,
+            "start": 950,
+            "stop": 1900,
+        },
+        "knee": {
+            "ch": 9,
+            "start": 500,
+            "stop": 2180
+        },
+        "hip": {
+            "ch": 6,
+            "start": 650,
+            "stop": 1550
+        }
+    },
+    "3": { # right front
+        "ankle": {
+            "ch": 11,
+            "start": 950,
+            "stop": 2060,
+        },
+        "knee": {
+            "ch": 10,
+            "start": 900,
+            "stop": 2400
+        },
+        "hip": {
+            "ch": 7,
+            "start": 1340,
+            "stop": 2330
+        }
+    },
+    "4": { # right mid
+        "ankle": {
+            "ch": 13,
+            "start": 900,
+            "stop": 2000
+        },
+        "knee": {
+            "ch": 14,
+            "start": 920,
+            "stop": 2400
+        },
+        "hip": {
+
+        }
+    }
+
+}
